@@ -1,0 +1,22 @@
+img{
+ width: 200px;
+ height: 200px;
+ display: block;
+ margin: auto;
+ margin-bottom: 20px;
+ border-radius: 50%;
+}
+button{
+    width: 30%;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 30px;
+     color: blue;
+     background-color: white;
+     cursor: pointer;
+     
+
+}
+h1{
+    text-align: center;
+}

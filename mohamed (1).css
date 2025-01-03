@@ -1,0 +1,49 @@
+body{
+background-color: rgba(92, 236, 236, 0.905);
+color: rgb(251, 254, 251);
+font-size: 30px;
+
+
+}
+table{
+border: #f7f2f2;
+border: blanchedalmond;
+border: crimson; 
+width: 50px;
+ height: 100px;
+font-size: 30px;
+background-color:rgb(8, 43, 75);
+text-align: center;
+border: blanchedalmond;
+
+}
+h4{
+color: #000;
+
+
+}
+img{
+    width: 150px;
+    height: 70px;
+}
+ol{
+color: rgb(0, 0, 0);
+
+}
+header{
+    background-color: black;
+    color: blue;
+}
+iframe{
+    
+
+    background-color: blue;
+    color: blueviolet;
+    border: 20px;
+    left: 50px;
+}
+h1{
+
+    text-align: center;
+    
+}
